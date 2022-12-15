@@ -44,5 +44,20 @@ print('Ты молодец!')
 # n = int(input())
 # print(a1 + d * (n - 1))
 
-a = int(input())
-print(a, 2*a, 3*a, 4*a, 5*a, sep='---')
+# a = int(input())
+# print(a, 2*a, 3*a, 4*a, 5*a, sep='---')
+
+# b1 = int(input())
+# q = int(input())
+# n = int(input())
+# print(b1*q**(n-1))
+
+# a = int(input())
+# print(a//100)
+
+# a = int(input())
+# b = int(input())
+# print(b // a)
+# print(b % a)
+
+
