@@ -1,3 +1,4 @@
+print('Ты молодец!')
 # print('I', 'like', 'Python', sep='**')
 
 # name1 = input()
